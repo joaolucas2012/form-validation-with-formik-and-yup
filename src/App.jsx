@@ -1,7 +1,7 @@
 import React from 'react';
+import './App.css';
 
 import { Signup } from './components/Signup';
-
 import rocketImage from './assets/rocketImage.png';
 
 function App() {
